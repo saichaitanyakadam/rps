@@ -1,0 +1,7 @@
+.game-btn-container {
+  list-style: none;
+  width: 35%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

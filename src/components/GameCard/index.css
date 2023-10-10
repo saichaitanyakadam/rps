@@ -1,0 +1,11 @@
+.choice-image {
+  width: 100%;
+}
+.each-game-container {
+  width: 40%;
+}
+.choice-btn {
+  background: transparent;
+  padding: 0px;
+  border: none;
+}
